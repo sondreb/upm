@@ -1,10 +1,17 @@
 {
   "name": "upm",
-  "author": "Sondre Bjellås <sondreb.com>",
-  "description": "Micro Package Manager (µpm) - a (very) tiny package manager",
   "version": "0.0.2",
+  "description": "Micro Package Manager (µpm) - a (very) tiny package manager",
+  "author": "Sondre Bjellås <sondreb.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sondreb/upm/blob/master/LICENSE"
+    }
+  ],
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/sondreb/upm.git"
   },
     "keywords": [
     "micro",
