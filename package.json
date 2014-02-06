@@ -1,6 +1,6 @@
 {
   "name": "upm",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Micro Package Manager (µpm) - a (very) tiny package manager",
   "author": "Sondre Bjellås <sondreb.com>",
   "licenses": [
@@ -16,8 +16,11 @@
     "keywords": [
     "micro",
     "package",
-    "manager"
+    "manager",
+    "package manager",
+    "javascript"
   ],
+  "preferGlobal": true,
   "main": "./lib/upm",
   "bin": {
     "upm": "./bin/upm"

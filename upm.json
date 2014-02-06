@@ -3,10 +3,11 @@ Micro Package Manager (upm)
 
 - Sample Configuration File
 */
-
 {
 	"licenses": "licenses/", // Remove to stop downloading licenses
     "filenames": "original", // Enum: "original", "stripped" (default)
+    "minified": true, // default: true
+    "original": true, // default: true
 
 	"app/js/": // Path to deploy files
     {

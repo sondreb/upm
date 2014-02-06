@@ -1,4 +1,4 @@
-Micro Package Manager (µpm) (0.0.2)
+Micro Package Manager (µpm) (0.0.4)
 ============
 - a (very) tiny package manager
 
@@ -7,6 +7,12 @@ Micro Package Manager (µpm) (0.0.2)
 Small, Simple and Tiny (Micro) Package Manager, that does not get in your way.
 
 Wikipedia: Micro (µ) is a prefix in the metric system denoting a factor of 10-6 (one millionth). Confirmed in 1960, the prefix comes from the Greek μικρός (mikrós), meaning "small".
+
+When you simply want to download the JavaScript libraries you need, and nothing else, you are out of luck with any of the other package managers.
+
+While actively developing, you don't want to be disrupted by changing file names in your dependencies. Whenever jQuery, AngularJS or another library updates, you'll get the very latest version by running upm and the files will be deployed where you want them, and with a static file name that does not change when new versions are released. You also want dependencies to be put in the same folder, and not in a structure with versioned folders.
+
+*Example:* Instead of having "jquery-2.1.0.js" stored within a "packages" or "components" folder, and having scripts that copies files, it can be deployed directly to your "scripts" or "js" folder, and the version-number will be stripped from the filename, so the file will always be "jquery.js" no matter which version is installed. This way, you no longer need to update your scripts element src attribute.
 
 ## Features:
 - Built for simplicity, with few features.
@@ -20,6 +26,7 @@ Wikipedia: Micro (µ) is a prefix in the metric system denoting a factor of 10-6
 - The package repository contains nothing but link to CDN-versions of libraries and files.
 - A package can contain multiple files.
 - Does not support dependencies, and won't support dependencies.
+- Downloads both regular and minified versions (by default).
 
 ## Installation:
 
@@ -39,7 +46,7 @@ Developed by Sondre Bjellås: http://sondreb.com/
 
 ## License (MIT):
 
-Copyright (C) 2007-2014 Sondre Bjellås - http://sondreb.com/
+Copyright (C) 2014 Sondre Bjellås - http://sondreb.com/
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
