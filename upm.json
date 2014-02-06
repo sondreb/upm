@@ -1,0 +1,25 @@
+/*
+Micro Package Manager (upm)
+
+- Sample Configuration File
+*/
+
+{
+	"licenses": "licenses/", // Remove to stop downloading licenses
+    "filenames": "original", // Enum: "original", "stripped" (default)
+
+	"app/js/": // Path to deploy files
+    {
+        "jquery": ">=1.10.2",
+        "underscore": "~1.5.2",
+        "jquery-signalr": "0",
+        "angular": "0",
+        "asdf": "http://asdf.com/asdf.js",
+        "angular-animate": "0"
+    },
+
+    "service/js/": // Path to deploy files
+    {
+    	"jquery": "0"
+    }
+}

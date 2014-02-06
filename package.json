@@ -1,0 +1,24 @@
+{
+  "name": "upm",
+  "author": "Sondre Bjellås <sondreb.com>",
+  "description": "Micro Package Manager (µpm) - a (very) tiny package manager",
+  "version": "0.0.2",
+  "repository": {
+    "url": ""
+  },
+    "keywords": [
+    "micro",
+    "package",
+    "manager"
+  ],
+  "main": "./lib/upm",
+  "bin": {
+    "upm": "./bin/upm"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
