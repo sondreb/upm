@@ -1,17 +1,21 @@
-Micro Package Manager (µpm) (0.0.6) ============ - a (very) tiny package manager
+﻿# Micro Package Manager (µpm) (0.0.6)
 
-Prototype Warning:
--------------
+- a (very) tiny package manager
+
+
+## Prototype Warning:
 
 upm is still an early prototype, don't expect all functionality to be working properly until 0.1 or higher release.
 
-Installation:
--------------
 
-npm install upm -g
+## Installation:
 
-Description:
-------------
+```sh
+$ npm install upm -g
+```
+
+
+## Description:
 
 Small, Simple and Tiny (Micro) Package Manager, that does not get in your way.
 
@@ -38,28 +42,29 @@ element src attribute.
 
 Features: - Built for simplicity, with few features. - Does not support dependencies, and won't support dependencies. - Always retrieves the latest version, does not support different dependency versions. If this is a requirement, use another package manager for increase stability and dependency-control. - Define depdencies in a upm.json file. - Allows download of licenses in separate folder. Disabled by default. - Multiple projects in the same package file. - As the key is the path, the .json file can be located outside of deployment code. - Will by default remove version number from files. This removes requirement to update script links. - The package repository contains nothing but link to CDN-versions of libraries and files. - A package can contain multiple files. - Downloads both regular and minified versions (by default). - The key in the JSON value, is the destination folder for dependencies.
 
-Help:
------
+
+## Help:
+
 
 -   https://github.com/sondreb/upm/issues
 
-Contribute:
------------
+
+## Contribute
 
 Create a pull request on: https://github.com/sondreb/upm/pulls
 
-### Code Syntax
+### Code Syntax:
 
 Indentation: Tabs  
 Reason: http://lea.verou.me/2012/01/why-tabs-are-clearly-superior/
 
-Credits:
---------
+
+## Credits:
 
 Developed by Sondre Bjellås: http://sondreb.com/
 
-License (MIT):
---------------
+
+## License (MIT):
 
 Copyright (C) 2014 Sondre Bjellås - http://sondreb.com/
 
