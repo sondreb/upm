@@ -1,8 +1,14 @@
 {
   "name": "upm",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Micro Package Manager (µpm) - a (very) tiny package manager",
   "author": "Sondre Bjellås <sondreb.com>",
+  "maintainers": [
+    {
+      "name": "sondreb",
+      "email": "pixelworld@hotmail.com"
+    }
+  ],
   "licenses": [
     {
       "type": "MIT",
@@ -12,6 +18,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sondreb/upm.git"
+  },
+  "bugs": {
+    "url": "http://github.com/sondreb/upm/issues"
   },
     "keywords": [
     "micro",
@@ -25,7 +34,12 @@
   "bin": {
     "upm": "./bin/upm"
   },
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "",
+    "pkginfo": "",
+    "node-fs": "",
+    "npmlog": ""
+    },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {

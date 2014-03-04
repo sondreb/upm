@@ -1,4 +1,15 @@
 #################
+## Custom
+#################
+
+# Ignore node modules, should be installed using npm and not included into repo.
+node_modules/
+
+# Ignore these as they are generated from upm.json.
+app/
+service/
+
+#################
 ## Eclipse
 #################
 
