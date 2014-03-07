@@ -1,4 +1,4 @@
-﻿# Micro Package Manager (µpm) (0.0.7)
+# Micro Package Manager (µpm) (0.0.7)
 
 - a (very) tiny package manager
 
@@ -40,7 +40,17 @@ stripped from the filename, so the file will always be "jquery.js" no matter
 which version is installed. This way, you no longer need to update your scripts
 element src attribute.
 
-Features: - Built for simplicity, with few features. - Does not support dependencies, and won't support dependencies. - Always retrieves the latest version, does not support different dependency versions. If this is a requirement, use another package manager for increase stability and dependency-control. - Define depdencies in a upm.json file. - Allows download of licenses in separate folder. Disabled by default. - Multiple projects in the same package file. - As the key is the path, the .json file can be located outside of deployment code. - Will by default remove version number from files. This removes requirement to update script links. - The package repository contains nothing but link to CDN-versions of libraries and files. - A package can contain multiple files. - Downloads both regular and minified versions (by default). - The key in the JSON value, is the destination folder for dependencies.
+Features: 
+- Built for simplicity, with few features. 
+- Does not support dependencies, and won't support dependencies. 
+- Always retrieves the latest version, does not support different dependency versions. If this is a requirement, use another package manager for increase stability and dependency-control. 
+- Define your dependencies in a upm.json file. 
+- Allows download of licenses for individual libraries.
+- Multiple projects in the same package file. 
+- As the key is the path, the .json file can be located outside of deployment code. 
+- Will by default remove version number from files. This removes requirement to update script links. 
+- Downloads both regular and minified versions (by default). 
+- The key in the JSON value, is the destination folder for dependencies. Requires to begin with a "./" key name.
 
 
 ## Instructions:
@@ -51,7 +61,7 @@ Beware that this utility will write folders and files to disk. These operations 
 ## Help:
 
 
--   https://github.com/sondreb/upm/issues
+- https://github.com/sondreb/upm/issues
 
 
 ## Contribute
