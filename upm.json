@@ -1,13 +1,12 @@
 {
-	"licenses": "licenses/",
-	"filenames": "original",
-	"minified": true,
 	"original": true,
+	"minified": true,
+	"version": false,
+	"license": false,
 	"./app/js/": {
 		"jquery": "",
 		"jquery-signalr": "",
 		"angular": "",
-		"asdf": "http://asdf.com/asdf.js",
 		"angular-animate": ""
 	},
 	"./service/js/": {

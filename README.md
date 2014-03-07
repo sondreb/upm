@@ -1,4 +1,4 @@
-﻿# Micro Package Manager (µpm) (0.0.6)
+﻿# Micro Package Manager (µpm) (0.0.7)
 
 - a (very) tiny package manager
 
@@ -41,6 +41,11 @@ which version is installed. This way, you no longer need to update your scripts
 element src attribute.
 
 Features: - Built for simplicity, with few features. - Does not support dependencies, and won't support dependencies. - Always retrieves the latest version, does not support different dependency versions. If this is a requirement, use another package manager for increase stability and dependency-control. - Define depdencies in a upm.json file. - Allows download of licenses in separate folder. Disabled by default. - Multiple projects in the same package file. - As the key is the path, the .json file can be located outside of deployment code. - Will by default remove version number from files. This removes requirement to update script links. - The package repository contains nothing but link to CDN-versions of libraries and files. - A package can contain multiple files. - Downloads both regular and minified versions (by default). - The key in the JSON value, is the destination folder for dependencies.
+
+
+## Instructions:
+
+Beware that this utility will write folders and files to disk. These operations can potentially overwrite files unintentially. If you for instance have a JavaScript file called "app.js" and you put a dependency on "app" inside your upm.json, your custom code will be overwritten when upm is executed.
 
 
 ## Help:

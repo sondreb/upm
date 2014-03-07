@@ -1,0 +1,22 @@
+{
+	"jquery": {
+		"version": "2.1.0",
+		"original": "http://code.jquery.com/jquery-{version}.js",
+		"minified": "http://code.jquery.com/jquery-{version}.min.js",
+		"license": "https://raw.github.com/jquery/jquery/master/MIT-LICENSE.txt"
+		},
+
+	"jquery-signalr": {
+		"version": "1.2.14",
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.min.js",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"angular": {
+		"version": "1.2.14",
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.min.js",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		}
+}
