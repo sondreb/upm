@@ -1,6 +1,13 @@
 ﻿Changelog
 ============
 
+## 0.0.8/0.0.13 - 2014-03-07
+- Minor fixes to make it install properly, the issue was caused by .gitignore which did not include the bin folder when publishing package.
+
+## 0.0.7 - 2014-03-06
+- Added download functionality.
+- First fully functional prototype.
+
 ## 0.0.6 - 2014-03-03
 - Creates destination folders using command line confirmations.
 - Added full logging with -verbose ability.

@@ -1,0 +1,8 @@
+app
+service
+
+.npmignore
+.gitattributes
+
+libraries.json
+upm.json

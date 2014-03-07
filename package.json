@@ -1,6 +1,6 @@
 {
   "name": "upm",
-  "version": "0.0.7",
+  "version": "0.0.13",
   "description": "Micro Package Manager (µpm) - a (very) tiny package manager",
   "author": "Sondre Bjellås <sondreb.com>",
   "maintainers": [
@@ -36,11 +36,9 @@
   },
   "dependencies": {
     "inquirer": "",
-    "pkginfo": "",
     "node-fs": "",
     "npmlog": "",
-    "async": "",
-    "node-async": ""
+    "async": ""
     },
   "devDependencies": {},
   "optionalDependencies": {},
