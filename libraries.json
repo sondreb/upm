@@ -14,9 +14,65 @@
 		},
 
 	"angular": {
-		"version": "1.2.14",
-		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.js",
-		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.min.js",
+		"version": "1.3.0-beta.1",
+		"original": "http://code.angularjs.org/{version}/angular.js",
+		"minified": "http://code.angularjs.org/{version}/angular.min.js",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"angular-animate": {
+		"version": "1.3.0-beta.1",
+		"original": "http://code.angularjs.org/{version}/angular-animate.js",
+		"minified": "http://code.angularjs.org/{version}/angular-animate.min.js",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"angular-cookies": {
+		"version": "1.3.0-beta.1",
+		"original": "http://code.angularjs.org/{version}/angular-cookies.js",
+		"minified": "http://code.angularjs.org/{version}/angular-cookies.min.js",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"angular-csp": {
+		"version": "1.3.0-beta.1",
+		"original": "http://code.angularjs.org/{version}/angular-csp.css",
+		"minified": "",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"angular-loader": {
+		"version": "1.3.0-beta.1",
+		"original": "http://code.angularjs.org/{version}/angular-loader.js",
+		"minified": "http://code.angularjs.org/{version}/angular-loader.min.js",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"angular-resource": {
+		"version": "1.3.0-beta.1",
+		"original": "http://code.angularjs.org/{version}/angular-resource.js",
+		"minified": "http://code.angularjs.org/{version}/angular-resource.min.js",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"angular-route": {
+		"version": "1.3.0-beta.1",
+		"original": "http://code.angularjs.org/{version}/angular-route.js",
+		"minified": "http://code.angularjs.org/{version}/angular-route.min.js",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"angular-sanitize": {
+		"version": "1.3.0-beta.1",
+		"original": "http://code.angularjs.org/{version}/angular-sanitize.js",
+		"minified": "http://code.angularjs.org/{version}/angular-sanitize.min.js",
+		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"angular-touch": {
+		"version": "1.3.0-beta.1",
+		"original": "http://code.angularjs.org/{version}/angular-touch.js",
+		"minified": "http://code.angularjs.org/{version}/angular-touch.min.js",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
 		}
 }

@@ -7,7 +7,8 @@
 		"jquery": "",
 		"jquery-signalr": "",
 		"angular": "",
-		"angular-animate": ""
+		"angular-animate": "",
+		"angular-csp": ""
 	},
 	"./service/js/": {
 		"jquery": ""
