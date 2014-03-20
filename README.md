@@ -1,4 +1,4 @@
-# Micro Package Manager (µpm) (0.0.15)
+# Micro Package Manager (µpm) (0.0.16)
 
 - a (very) tiny package manager
 
@@ -72,6 +72,11 @@ Create a pull request on: https://github.com/sondreb/upm/pulls
 
 Indentation: Tabs  
 Reason: http://lea.verou.me/2012/01/why-tabs-are-clearly-superior/
+
+
+## Alternatives and Others:
+
+- http://cdnjs.com/ is a great resource for libraries, but it's not always updated with the latest versions.
 
 
 ## Credits:

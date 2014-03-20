@@ -1,7 +1,11 @@
 ﻿Changelog
 ============
 
-## 0.0.8/0.0.13 - 2014-03-07
+## 0.0.16 - 2014-03-12
+- Added support for having only original or minified files available in the libraries catalog.
+- Sometimes download failed and disk write was 0kb for some files, made the async run at max 2 downloads.
+
+## 0.0.8/0.0.14 - 2014-03-07
 - Minor fixes to make it install properly, the issue was caused by .gitignore which did not include the bin folder when publishing package.
 
 ## 0.0.7 - 2014-03-06

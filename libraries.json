@@ -7,72 +7,109 @@
 		},
 
 	"jquery-signalr": {
-		"version": "1.2.14",
-		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.js",
-		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.min.js",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"version": "2.0.2",
+		"original": "http://ajax.aspnetcdn.com/ajax/signalr/jquery.signalr-{version}.js",
+		"minified": "http://ajax.aspnetcdn.com/ajax/signalr/jquery.signalr-{version}.min.js",
+		"license": "https://raw.github.com/SignalR/SignalR/master/LICENSE.md"
 		},
 
 	"angular": {
-		"version": "1.3.0-beta.1",
+		"version": "1.2.14",
 		"original": "http://code.angularjs.org/{version}/angular.js",
 		"minified": "http://code.angularjs.org/{version}/angular.min.js",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-animate": {
-		"version": "1.3.0-beta.1",
+		"version": "1.2.14",
 		"original": "http://code.angularjs.org/{version}/angular-animate.js",
 		"minified": "http://code.angularjs.org/{version}/angular-animate.min.js",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-cookies": {
-		"version": "1.3.0-beta.1",
+		"version": "1.2.14",
 		"original": "http://code.angularjs.org/{version}/angular-cookies.js",
 		"minified": "http://code.angularjs.org/{version}/angular-cookies.min.js",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-csp": {
-		"version": "1.3.0-beta.1",
+		"version": "1.2.14",
 		"original": "http://code.angularjs.org/{version}/angular-csp.css",
-		"minified": "",
+		"minified": "http://code.angularjs.org/{version}/angular-csp.css",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-loader": {
-		"version": "1.3.0-beta.1",
+		"version": "1.2.14",
 		"original": "http://code.angularjs.org/{version}/angular-loader.js",
 		"minified": "http://code.angularjs.org/{version}/angular-loader.min.js",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-resource": {
-		"version": "1.3.0-beta.1",
+		"version": "1.2.14",
 		"original": "http://code.angularjs.org/{version}/angular-resource.js",
 		"minified": "http://code.angularjs.org/{version}/angular-resource.min.js",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-route": {
-		"version": "1.3.0-beta.1",
+		"version": "1.2.14",
 		"original": "http://code.angularjs.org/{version}/angular-route.js",
 		"minified": "http://code.angularjs.org/{version}/angular-route.min.js",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-sanitize": {
-		"version": "1.3.0-beta.1",
+		"version": "1.2.14",
 		"original": "http://code.angularjs.org/{version}/angular-sanitize.js",
 		"minified": "http://code.angularjs.org/{version}/angular-sanitize.min.js",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-touch": {
-		"version": "1.3.0-beta.1",
+		"version": "1.2.14",
 		"original": "http://code.angularjs.org/{version}/angular-touch.js",
 		"minified": "http://code.angularjs.org/{version}/angular-touch.min.js",
 		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		},
+
+	"modernizr": {
+		"version": "2.7.1",
+		"original": "http://cdnjs.cloudflare.com/ajax/libs/modernizr/{version}/modernizr.js",
+		"minified": "http://cdnjs.cloudflare.com/ajax/libs/modernizr/{version}/modernizr.min.js",
+		"license": "https://raw.github.com/Modernizr/Modernizr/master/LICENSE"
+		},
+
+	"knockout": {
+		"version": "3.1.0",
+		"original": "",
+		"minified": "http://knockoutjs.com/downloads/knockout-{version}.js",
+		"license": "https://raw.github.com/knockout/knockout/master/LICENSE"
+		},
+
+	"backbone": {
+		"version": "1.1.2",
+		"original": "http://backbonejs.org/backbone.js",
+		"minified": "http://backbonejs.org/backbone-min.js",
+		"license": "https://raw.github.com/jashkenas/backbone/master/LICENSE"
+		},
+
+	"ember": {
+		"version": "1.4.0",
+		"original": "http://builds.emberjs.com/tags/v{version}/ember.prod.js",
+		"minified": "http://builds.emberjs.com/tags/v{version}/ember.min.js",
+		"license": "https://raw.github.com/jashkenas/backbone/master/LICENSE"
+		},
+		
+	"date": {
+		"version": "1.0",
+		"original": "",
+		"minified": "https://datejs.googlecode.com/files/date.js",
+		"license": "http://opensource.org/licenses/mit-license.php"
 		}
+
+
 }
