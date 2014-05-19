@@ -1,6 +1,9 @@
 ﻿Changelog
 ============
 
+## 0.0.18/0.0.19 - 2014-05-19
+- Fixed a fatal bug with download of libraries.json.
+
 ## 0.0.16 - 2014-03-12
 - Added support for having only original or minified files available in the libraries catalog.
 - Sometimes download failed and disk write was 0kb for some files, made the async run at max 2 downloads.

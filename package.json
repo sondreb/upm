@@ -1,6 +1,6 @@
 {
   "name": "upm",
-  "version": "0.0.17",
+  "version": "0.0.19",
   "description": "Micro Package Manager (µpm) - a (very) tiny package manager",
   "author": "Sondre Bjellås <sondreb.com>",
   "maintainers": [

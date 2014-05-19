@@ -1,4 +1,4 @@
-# Micro Package Manager (µpm) (0.0.17)
+# Micro Package Manager (µpm) (0.0.19)
 
 - a (very) tiny package manager
 
