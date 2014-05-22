@@ -3,105 +3,105 @@
 		"version": "2.1.1",
 		"original": "http://code.jquery.com/jquery-{version}.js",
 		"minified": "http://code.jquery.com/jquery-{version}.min.js",
-		"license": "https://raw.github.com/jquery/jquery/master/MIT-LICENSE.txt"
+		"license": "https://raw.githubusercontent.com/jquery/jquery/master/MIT-LICENSE.txt"
 		},
 
 	"jquery-signalr": {
 		"version": "2.0.3",
 		"original": "http://ajax.aspnetcdn.com/ajax/signalr/jquery.signalr-{version}.js",
 		"minified": "http://ajax.aspnetcdn.com/ajax/signalr/jquery.signalr-{version}.min.js",
-		"license": "https://raw.github.com/SignalR/SignalR/master/LICENSE.md"
+		"license": "https://raw.githubusercontent.com/SignalR/SignalR/master/LICENSE.md"
 		},
 
 	"angular": {
 		"version": "1.2.16",
-		"original": "http://code.angularjs.org/{version}/angular.js",
-		"minified": "http://code.angularjs.org/{version}/angular.min.js",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.min.js",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-animate": {
 		"version": "1.2.16",
-		"original": "http://code.angularjs.org/{version}/angular-animate.js",
-		"minified": "http://code.angularjs.org/{version}/angular-animate.min.js",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-animate.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-animate.min.js",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-cookies": {
 		"version": "1.2.16",
-		"original": "http://code.angularjs.org/{version}/angular-cookies.js",
-		"minified": "http://code.angularjs.org/{version}/angular-cookies.min.js",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-cookies.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-cookies.min.js",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-csp": {
 		"version": "1.2.16",
-		"original": "http://code.angularjs.org/{version}/angular-csp.css",
-		"minified": "http://code.angularjs.org/{version}/angular-csp.css",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-csp.css",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-csp.css",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-loader": {
 		"version": "1.2.16",
-		"original": "http://code.angularjs.org/{version}/angular-loader.js",
-		"minified": "http://code.angularjs.org/{version}/angular-loader.min.js",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-loader.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-loader.min.js",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-resource": {
 		"version": "1.2.16",
-		"original": "http://code.angularjs.org/{version}/angular-resource.js",
-		"minified": "http://code.angularjs.org/{version}/angular-resource.min.js",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-resource.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-resource.min.js",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-route": {
 		"version": "1.2.16",
-		"original": "http://code.angularjs.org/{version}/angular-route.js",
-		"minified": "http://code.angularjs.org/{version}/angular-route.min.js",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-route.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-route.min.js",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-sanitize": {
 		"version": "1.2.16",
-		"original": "http://code.angularjs.org/{version}/angular-sanitize.js",
-		"minified": "http://code.angularjs.org/{version}/angular-sanitize.min.js",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-sanitize.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-sanitize.min.js",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
 	"angular-touch": {
 		"version": "1.2.16",
-		"original": "http://code.angularjs.org/{version}/angular-touch.js",
-		"minified": "http://code.angularjs.org/{version}/angular-touch.min.js",
-		"license": "https://raw.github.com/angular/angular.js/master/LICENSE"
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-touch.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-touch.min.js",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
 	"modernizr": {
 		"version": "2.8.1",
 		"original": "http://cdnjs.cloudflare.com/ajax/libs/modernizr/{version}/modernizr.js",
 		"minified": "http://cdnjs.cloudflare.com/ajax/libs/modernizr/{version}/modernizr.min.js",
-		"license": "https://raw.github.com/Modernizr/Modernizr/master/LICENSE"
+		"license": "https://raw.githubusercontent.com/Modernizr/Modernizr/master/LICENSE"
 		},
 
 	"knockout": {
 		"version": "3.1.0",
 		"original": "",
 		"minified": "http://knockoutjs.com/downloads/knockout-{version}.js",
-		"license": "https://raw.github.com/knockout/knockout/master/LICENSE"
+		"license": "https://raw.githubusercontent.com/knockout/knockout/master/LICENSE"
 		},
 
 	"backbone": {
 		"version": "1.1.2",
 		"original": "http://backbonejs.org/backbone.js",
 		"minified": "http://backbonejs.org/backbone-min.js",
-		"license": "https://raw.github.com/jashkenas/backbone/master/LICENSE"
+		"license": "https://raw.githubusercontent.com/jashkenas/backbone/master/LICENSE"
 		},
 
 	"ember": {
 		"version": "1.5.1",
 		"original": "http://builds.emberjs.com/tags/v{version}/ember.prod.js",
 		"minified": "http://builds.emberjs.com/tags/v{version}/ember.min.js",
-		"license": "https://raw.github.com/jashkenas/backbone/master/LICENSE"
+		"license": "https://raw.githubusercontent.com/jashkenas/backbone/master/LICENSE"
 		},
 		
 	"date": {

@@ -40,6 +40,10 @@ stripped from the filename, so the file will always be "jquery.js" no matter
 which version is installed. This way, you no longer need to update your scripts
 element src attribute.
 
+When you need a more stable update to your libraries, simply download and safe
+the libraries.json from the GitHub repository and store it locally at the root
+of your own repository. That way, you can manually control all dependencies.
+
 Features: 
 - Built for simplicity, with few features. 
 - Does not support dependencies, and won't support dependencies. 
