@@ -1,6 +1,12 @@
 ﻿Changelog
 ============
 
+## 0.0.21 - 2014-06-04
+- Updated libraries, improving integration with Grunt and Testing of AngularJS apps.
+
+## 0.0.20 - 2014-05
+- Added HTML 5 template.
+
 ## 0.0.18/0.0.19 - 2014-05-19
 - Fixed a fatal bug with download of libraries.json.
 

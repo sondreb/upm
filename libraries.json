@@ -27,6 +27,13 @@
 		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
+	"angular-mocks": {
+		"version": "1.2.16",
+		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-mocks.js",
+		"minified": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-mocks.min.js",
+		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
+		},
+
 	"angular-cookies": {
 		"version": "1.2.16",
 		"original": "http://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular-cookies.js",
@@ -76,6 +83,27 @@
 		"license": "https://raw.githubusercontent.com/angular/angular.js/master/LICENSE"
 		},
 
+	"angular-safeapply": {
+		"version": "1",
+		"original": "https://raw.githubusercontent.com/yearofmoo/AngularJS-Scope.SafeApply/master/src/Scope.SafeApply.js",
+		"minified": "https://raw.githubusercontent.com/yearofmoo/AngularJS-Scope.SafeApply/master/src/Scope.SafeApply.min.js",
+		"license": "Unknown"
+		},
+
+	"angular-hotkeys": {
+		"version": "1",
+		"original": "https://raw.githubusercontent.com/chieffancypants/angular-hotkeys/master/src/hotkeys.js",
+		"minified": "https://raw.githubusercontent.com/chieffancypants/angular-hotkeys/master/src/hotkeys.js",
+		"license": "https://raw.githubusercontent.com/chieffancypants/angular-hotkeys/master/LICENSE"
+		},
+
+	"angular-hotkeys-css": {
+		"version": "1",
+		"original": "https://raw.githubusercontent.com/chieffancypants/angular-hotkeys/master/src/hotkeys.css",
+		"minified": "https://raw.githubusercontent.com/chieffancypants/angular-hotkeys/master/src/hotkeys.css",
+		"license": "https://raw.githubusercontent.com/chieffancypants/angular-hotkeys/master/LICENSE"
+		},
+
 	"modernizr": {
 		"version": "2.8.1",
 		"original": "http://cdnjs.cloudflare.com/ajax/libs/modernizr/{version}/modernizr.js",
@@ -103,6 +131,27 @@
 		"minified": "http://builds.emberjs.com/tags/v{version}/ember.min.js",
 		"license": "https://raw.githubusercontent.com/jashkenas/backbone/master/LICENSE"
 		},
+
+	"mocha": {
+		"version": "1.20.0",
+		"original": "http://cdnjs.cloudflare.com/ajax/libs/mocha/{version}/mocha.js",
+		"minified": "http://cdnjs.cloudflare.com/ajax/libs/mocha/{version}/mocha.js",
+		"license": "https://raw.githubusercontent.com/visionmedia/mocha/master/LICENSE"
+		},
+
+	"mocha-css": {
+		"version": "1.20.0",
+		"original": "http://cdnjs.cloudflare.com/ajax/libs/mocha/{version}/mocha.css",
+		"minified": "http://cdnjs.cloudflare.com/ajax/libs/mocha/{version}/mocha.css",
+		"license": "https://raw.githubusercontent.com/visionmedia/mocha/master/LICENSE"
+		},
+
+	"chai": {
+		"version": "1.9.1",
+		"original": "http://cdnjs.cloudflare.com/ajax/libs/chai/{version}/chai.js",
+		"minified": "http://cdnjs.cloudflare.com/ajax/libs/chai/{version}/chai.min.js",
+		"license": "MIT"
+		},
 		
 	"date": {
 		"version": "1.0",
@@ -110,6 +159,5 @@
 		"minified": "https://datejs.googlecode.com/files/date.js",
 		"license": "http://opensource.org/licenses/mit-license.php"
 		}
-
 
 }
